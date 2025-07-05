@@ -1,0 +1,21 @@
+# Thư mục của Visual Studio
+.vs/
+
+# Thư mục của VS Code
+.vscode/
+
+# File biên dịch Python
+*.pyc
+__pycache__/
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+
+# Các file nén, backup
+*.zip
+*.rar
+*.bak
+
+# Bỏ qua file môi trường
+.env
